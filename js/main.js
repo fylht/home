@@ -27,7 +27,6 @@ $(function(){
  });
 
  $('.footer-slider').slick({
-  fade: true,
   arrows: false,
   dots: true,
   dotsClass: 'slick-dots-down',
